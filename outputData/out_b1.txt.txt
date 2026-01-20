@@ -1,0 +1,15 @@
+Task I.2
+Anna G
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Data filename: data_b1.txt
+~-~-~-~
+Sensor name: <N/A>
+Length of the series: 27776
+Max value: 65020,771
+Min value: 202,317
+Mean value: 21657,001
+Median 19369,168 source:  19368,460::19369,877
+Number of central elements: 890
+~-~-~-~
+Number of invalid records: 287
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-

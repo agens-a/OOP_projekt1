@@ -1,0 +1,191 @@
+Task III.4
+Anna G
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Data filename: data_e1.txt
+~-~-~-~
+Sensor name: <N/A>
+Length of the series: 44108
+Max value: 65144,978 [uqerayg7]
+Min value: 159,518 [wbhsf50w]
+Mean value: 21617,733
+Median 19392,681 source:  19392,272 [gr5ja531]::19393,090
+Number of central elements: 1432
+~-~-~-~
+Sensor name: detector15
+Length of the series: 698
+Max value: 63047,090 [bg81mmqb]
+Min value: 484,100 [5vnorjym]
+Mean value: 22124,986
+Median 20358,266 source:  20339,303 [j5mfw0yj]::20377,228 [ghs937tt]
+Number of central elements: 23
+~-~-~-~
+Sensor name: detector33
+Length of the series: 706
+Max value: 64341,251 [exr3w29w]
+Min value: 666,841 [10m1lcaq]
+Mean value: 22220,535
+Median 19634,160 source:  19625,627 [xeyvk4ab]::19642,693 [brfsdsip]
+Number of central elements: 17
+~-~-~-~
+Sensor name: detector44
+Length of the series: 678
+Max value: 63289,810 [phwen1pq]
+Min value: 579,915 [gxy6wxs5]
+Mean value: 22185,174
+Median 19961,680 source:  19935,904 [pxckg22y]::19987,456 [g7j0vxyg]
+Number of central elements: 15
+~-~-~-~
+Sensor name: detector75
+Length of the series: 722
+Max value: 62305,778 [jbi82raf]
+Min value: 743,957 [avb65703]
+Mean value: 21951,532
+Median 20145,063 source:  20129,705 [wvi6mmsp]::20160,421 [4eifne1x]
+Number of central elements: 17
+~-~-~-~
+Sensor name: detector88
+Length of the series: 686
+Max value: 64664,595 [4wr6e810]
+Min value: 411,540 [virffmzf]
+Mean value: 21917,915
+Median 19684,250 source:  19680,370 [1c8tgsgd]::19688,130 [rozb8yrv]
+Number of central elements: 19
+~-~-~-~
+Sensor name: detector95
+Length of the series: 692
+Max value: 64106,486 [le9yt7cs]
+Min value: 196,864 [oxuzris4]
+Mean value: 21287,010
+Median 19685,528 source:  19629,120 [19b5dzvx]::19741,935 [2l9a48nr]
+Number of central elements: 30
+~-~-~-~
+Sensor name: generator39
+Length of the series: 717
+Max value: 65215,540 [ho7q81g1]
+Min value: 472,316 [lqlm7axg]
+Mean value: 21728,100
+Median 19938,464 source:  19938,464 [bqy39wp0]
+Number of central elements: 23
+~-~-~-~
+Sensor name: generator9
+Length of the series: 690
+Max value: 64254,200 [1trwkh7w]
+Min value: 310,597 [rhlhfn88]
+Mean value: 20382,559
+Median 18635,972 source:  18610,775 [tmz4zauo]::18661,169 [r4ki2wd9]
+Number of central elements: 24
+~-~-~-~
+Sensor name: sensor2
+Length of the series: 693
+Max value: 62161,860 [ko52oe6f]
+Min value: 276,238 [17u82ob2]
+Mean value: 21929,780
+Median 20590,510 source:  20590,510 [2dhqc4wp]
+Number of central elements: 22
+~-~-~-~
+Sensor name: sensor71
+Length of the series: 686
+Max value: 62920,049 [d2c95rpt]
+Min value: 374,337 [9gugmkie]
+Mean value: 21373,884
+Median 18938,717 source:  18920,257 [dfj48l8w]::18957,177 [8c7qvfmx]
+Number of central elements: 25
+~-~-~-~
+Sensor name: sensor72
+Length of the series: 683
+Max value: 64608,380 [7eduisen]
+Min value: 439,410 [3v5m964g]
+Mean value: 22144,072
+Median 19769,944 source:  19769,944 [jqu991xk]
+Number of central elements: 26
+~-~-~-~
+Sensor name: sensor79
+Length of the series: 698
+Max value: 63962,588 [b274vjx7]
+Min value: 433,294 [7099q9m8]
+Mean value: 21945,199
+Median 19430,606 source:  19363,401 [zji6e1a4]::19497,810 [rwjuw542]
+Number of central elements: 23
+~-~-~-~
+Sensor name: sensor93
+Length of the series: 1398
+Max value: 64563,740 [hk7uzr5w]
+Min value: 247,690 [z12k73uq]
+Mean value: 21198,843
+Median 19137,230 source:  19117,290 [xk91vohg]::19157,171 [u9tjldx4]
+Number of central elements: 56
+~-~-~-~
+Sensor name: sensor94
+Length of the series: 696
+Max value: 64171,693 [sqb102ql]
+Min value: 365,027 [32412g3s]
+Mean value: 21905,695
+Median 19596,851 source:  19533,959 [d3ny9cb3]::19659,744 [m4q7oo69]
+Number of central elements: 18
+~-~-~-~
+Sensor name: sensor98
+Length of the series: 692
+Max value: 62980,300 [la1xnmkg]
+Min value: 538,860 [e0c1lbik]
+Mean value: 22780,900
+Median 20312,691 source:  20301,918 [u6elxo98]::20323,465 [h3b9m0y6]
+Number of central elements: 16
+~-~-~-~
+Sensor name: series13
+Length of the series: 707
+Max value: 61653,143 [tc5ucu78]
+Min value: 565,804 [2968x1st]
+Mean value: 22317,461
+Median 19150,230 source:  19150,230 [44h0ie43]
+Number of central elements: 17
+~-~-~-~
+Sensor name: series30
+Length of the series: 663
+Max value: 63475,415 [hnukdvo2]
+Min value: 282,398 [l100svjd]
+Mean value: 21623,093
+Median 19558,410 source:  19558,410 [roghfnxf]
+Number of central elements: 21
+~-~-~-~
+Sensor name: series38
+Length of the series: 669
+Max value: 63745,440 [b2036vnv]
+Min value: 315,050 [2b1t9o99]
+Mean value: 21921,336
+Median 19827,508 source:  19827,508 [8yczk3fg]
+Number of central elements: 28
+~-~-~-~
+Sensor name: series55
+Length of the series: 681
+Max value: 61543,475 [k9jknd70]
+Min value: 295,617 [swazwfgo]
+Mean value: 22098,808
+Median 19258,736 source:  19258,736 [vi7hl1ae]
+Number of central elements: 17
+~-~-~-~
+Sensor name: series69
+Length of the series: 703
+Max value: 62980,297 [n5lnj69r]
+Min value: 484,419 [zzc8m26n]
+Mean value: 21953,874
+Median 20429,851 source:  20429,851 [2esjltqp]
+Number of central elements: 19
+~-~-~-~
+Sensor name: series8
+Length of the series: 717
+Max value: 63944,005 [bye92j8u]
+Min value: 369,862 [kxseb0r1]
+Mean value: 21174,410
+Median 19056,243 source:  19056,243 [93b1ikvl]
+Number of central elements: 22
+~-~-~-~
+Sensor name: series97
+Length of the series: 709
+Max value: 62697,716 [g0hu5o46]
+Min value: 481,969 [uj9664mx]
+Mean value: 21393,516
+Median 19474,891 source:  19474,891 [qmr7glil]
+Number of central elements: 19
+~-~-~-~
+Number of invalid records: 589
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-

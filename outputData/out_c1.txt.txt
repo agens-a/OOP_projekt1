@@ -1,0 +1,15 @@
+Task II.2
+Anna G
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Data filename: data_c1.txt
+~-~-~-~
+Sensor name: <N/A>
+Length of the series: 21054
+Max value: 64536,673 [2h9dt3cq]
+Min value: 154,460 [mkeecl6k]
+Mean value: 21619,763
+Median 19405,442 source:  19405,429 [gfw955fg]::19405,455 [nf81az9r]
+Number of central elements: 670
+~-~-~-~
+Number of invalid records: 221
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
